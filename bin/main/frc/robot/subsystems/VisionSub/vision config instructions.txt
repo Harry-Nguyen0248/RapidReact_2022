@@ -1,0 +1,17 @@
+flashing -> bootup
+solid light -> on
+
+connect to network called 1360
+go to 10.13.60.105 port 5801
+this opens the web ui
+
+minimal exposure possible
+as high black offset as needed
+tune for hsv threshold
+    sat + val include all
+    move hue to best possible range
+    move sat range
+    move val range
+tune contour filter
+    smart target
+    

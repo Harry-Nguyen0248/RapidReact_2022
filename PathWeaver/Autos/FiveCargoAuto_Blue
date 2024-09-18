@@ -1,0 +1,5 @@
+startToFirstCargo.path
+firstShotToSecondCargo.path
+secondCargoToSecondShot.path
+secondShotToTerminal.path
+terminalToThirdShot.path
